@@ -2,18 +2,18 @@
   {
     "path": "posts/welcome/",
     "title": "Welcome to Blog do Marco",
-    "description": "Welcome to our new blog, Blog do Marco. We hope you enjoy \nreading what we have to say!",
+    "description": "Bem-vindo to our new blog, Blog do Marco. We hope you enjoy \nreading what we have to say!",
     "author": [
       {
-        "name": "Nora Jones",
+        "name": "Marco Aurelio",
         "url": "https://example.com/norajones"
       }
     ],
     "date": "2021-03-23",
     "categories": [],
-    "contents": "\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2021-03-23T00:01:04-03:00",
-    "input_file": {}
+    "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "posts/welcome/welcome_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2021-03-23T00:23:46-03:00",
+    "input_file": "welcome.utf8.md"
   }
 ]
