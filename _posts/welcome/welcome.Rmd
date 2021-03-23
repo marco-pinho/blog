@@ -1,10 +1,10 @@
 ---
 title: "Welcome to Blog do Marco"
 description: |
-  Welcome to our new blog, Blog do Marco. We hope you enjoy 
+  Bem-vindo to our new blog, Blog do Marco. We hope you enjoy 
   reading what we have to say!
 author:
-  - name: Nora Jones 
+  - name: Marco Aurelio
     url: https://example.com/norajones
     affiliation: Spacely Sprockets
     affiliation_url: https://example.com/spacelysprokets
