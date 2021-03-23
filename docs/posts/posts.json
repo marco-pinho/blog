@@ -15,5 +15,22 @@
     "preview": "posts/welcome/welcome_files/figure-html5/unnamed-chunk-1-1.png",
     "last_modified": "2021-03-23T00:23:46-03:00",
     "input_file": "welcome.utf8.md"
+  },
+  {
+    "path": "posts/2021-03-23-ttulo-do-meu-primeiro-post/",
+    "title": "Titulo do Meu Primeiro Post",
+    "description": "Estou tentando fazer algo interessante",
+    "author": [
+      {
+        "name": "Marco Aurelio",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-03-23",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nTeste de tabela\r\nNome\r\nIdade\r\nMarco\r\n54\r\nVictor\r\n24\r\nImportancia da Pratica\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-03-23T19:43:07-03:00",
+    "input_file": "ttulo-do-meu-primeiro-post.utf8.md"
   }
 ]

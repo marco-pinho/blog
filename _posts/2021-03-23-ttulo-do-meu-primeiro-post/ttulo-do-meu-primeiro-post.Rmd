@@ -1,0 +1,27 @@
+---
+title: "Titulo do Meu Primeiro Post"
+description: |
+  Estou tentando fazer algo interessante
+author:
+  - name: Marco Aurelio
+    url: https://example.com/norajones
+date: 03-23-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+| Nome   | Idade |
+|--------|-------|
+| Marco  | 54    |
+| Victor | 24    |
+
+: Teste de tabela
+
+![Importancia da Pratica](images/apenas%20teoria-01.PNG){width="285"}
