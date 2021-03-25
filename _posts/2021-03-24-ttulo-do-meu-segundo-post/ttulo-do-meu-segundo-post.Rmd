@@ -1,0 +1,24 @@
+---
+title: "Victor"
+description: |
+  Testando mesmo
+author:
+  - name: Marco Aurelio
+    url: https://example.com/norajones
+date: 03-24-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+| Teste1 | Teste2 | Teste3 |
+|--------|--------|--------|
+| a      | b      | c      |
+| a      | b      | c      |
+| a      | b      | c      |
+
+![Laser](images/fleboloji.png){width="166"}
